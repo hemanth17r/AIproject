@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 
 # Updated OpenRouter API key
-OPENROUTER_API_KEY = "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"
+OPENROUTER_API_KEY = "open router key here"
 
 headers = {
     "Authorization": f"Bearer {OPENROUTER_API_KEY}",
